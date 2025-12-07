@@ -1,6 +1,6 @@
 # Logic-based MATLAB model of endothelial signaling in PAH
 
-This repository contains the MATLAB code for my 42-xxx class project:
+This repository contains the MATLAB code for class project:
 **"A logic-based MATLAB model of endothelial signaling in pulmonary arterial hypertension"**.
 
 ## Files

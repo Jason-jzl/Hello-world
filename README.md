@@ -17,11 +17,6 @@ This repository contains the MATLAB code for class project:
   3. performs a 10×10 parameter scan over BMPR2_level and shear_level,
   4. generates the figures used in the report.
 
-- `PAH_network.xlsx` (optional)  
-  Netflux-style Excel specification of the network, including species and reactions.
-
-- `figs/` (optional)  
-  Example output figures (time courses, steady-state bar plots, heatmaps, therapy comparison).
 
 ## How to run
 
@@ -35,5 +30,4 @@ This repository contains the MATLAB code for class project:
    - run the parameter scan,
    - and generate all plots.
 
-The main results correspond to Figures 1 and 2 in the written report.
 
